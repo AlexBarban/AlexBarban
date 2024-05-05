@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen de portada](img/romano,jpg)
+![Imagen de portada](Recursos/descarga.jpeg)
 
 ## Descripción
 
