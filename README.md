@@ -1,16 +1,20 @@
-### Hi there 👋
+# Título del proyecto
 
-<!--
-**AlexBarban/AlexBarban** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Imagen de portada](img/romano,jpg)
 
-Here are some ideas to get you started:
+## Descripción
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Breve descripción del proyecto, objetivos y funcionalidades principales.
+
+## Características
+
+Característica 1
+Característica 2
+Característica 3
+
+
+## Instalación
+
+Instrucción para instalar y configurar el proyecto.
+
+## Uso
