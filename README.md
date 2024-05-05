@@ -8,9 +8,9 @@ Breve descripción del proyecto, objetivos y funcionalidades principales.
 
 ## Características
 
-Característica 1
-Característica 2
-Característica 3
+- Característica 1
+- Característica 2
+- Característica 3
 
 
 ## Instalación
