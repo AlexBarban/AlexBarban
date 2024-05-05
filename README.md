@@ -1,6 +1,6 @@
 # Título del proyecto
 
-![Imagen de portada](Recursos/descarga.jpeg)
+![Imagen de portada](Recursos/Ironman.jpeg)
 
 ## Descripción
 
