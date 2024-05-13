@@ -20,6 +20,6 @@ Instrucción para instalar y configurar el proyecto.
 ## Uso
 
 
-## Búsqueda
+## Perfil
 
-[link](https://github.com/AlexBarban/)
+[Perfil](https://github.com/AlexBarban/)
